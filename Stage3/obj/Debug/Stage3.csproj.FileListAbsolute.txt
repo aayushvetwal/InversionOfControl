@@ -1,0 +1,9 @@
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\Stage3\bin\Debug\Stage3.dll
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\Stage3\bin\Debug\Stage3.pdb
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\Stage3\obj\Debug\Stage3.dll
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\Stage3\obj\Debug\Stage3.pdb
+C:\Users\Aayush\Downloads\IOC-master\IOC-master\Stage3\bin\Debug\Stage3.dll
+C:\Users\Aayush\Downloads\IOC-master\IOC-master\Stage3\bin\Debug\Stage3.pdb
+C:\Users\Aayush\Downloads\IOC-master\IOC-master\Stage3\obj\Debug\Stage3.csprojResolveAssemblyReference.cache
+C:\Users\Aayush\Downloads\IOC-master\IOC-master\Stage3\obj\Debug\Stage3.dll
+C:\Users\Aayush\Downloads\IOC-master\IOC-master\Stage3\obj\Debug\Stage3.pdb

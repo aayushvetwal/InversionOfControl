@@ -1,0 +1,9 @@
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\Stage2\bin\Debug\Stage2.dll
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\Stage2\bin\Debug\Stage2.pdb
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\Stage2\obj\Debug\Stage2.dll
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\Stage2\obj\Debug\Stage2.pdb
+C:\Users\Aayush\Downloads\IOC-master\IOC-master\Stage2\bin\Debug\Stage2.dll
+C:\Users\Aayush\Downloads\IOC-master\IOC-master\Stage2\bin\Debug\Stage2.pdb
+C:\Users\Aayush\Downloads\IOC-master\IOC-master\Stage2\obj\Debug\Stage2.csprojResolveAssemblyReference.cache
+C:\Users\Aayush\Downloads\IOC-master\IOC-master\Stage2\obj\Debug\Stage2.dll
+C:\Users\Aayush\Downloads\IOC-master\IOC-master\Stage2\obj\Debug\Stage2.pdb
